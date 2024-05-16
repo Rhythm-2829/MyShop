@@ -34,5 +34,9 @@ We welcome contributions to the MyShop project! Here's how you can help:
 
 7. **Submit a Pull Request:** Finally, submit a pull request from your forked repository to the main MyShop repository. Be sure to provide a clear description of the changes you've made.
 
+## Demonstration
+1. Homepage
+
+![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/bddc67b9-299c-446c-8f79-4d8cfffd27f7)
 
 
