@@ -55,6 +55,11 @@ We welcome contributions to the MyShop project! Here's how you can help:
 
 ![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/0562e7af-d465-4805-9588-754c330654d2)
 
+##Tech Stack
+1.Python
+2.Django
+3.HTML
+4.CSS
 
 
 
