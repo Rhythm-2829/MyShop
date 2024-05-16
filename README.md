@@ -39,4 +39,24 @@ We welcome contributions to the MyShop project! Here's how you can help:
 
 ![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/bddc67b9-299c-446c-8f79-4d8cfffd27f7)
 
+2.Admin Login Page
+
+![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/903ee52d-0936-479c-97b5-6eeb95911c8e)
+
+3.Admin Workspace
+
+![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/6abd3f5f-1d90-4d6b-91cf-69fe0d9d91aa)
+
+4.Add an Object
+
+![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/87b54d94-a150-4910-94aa-145bfd87b79f)
+
+5.Delete an Object
+
+![image](https://github.com/Rhythm-2829/MyShop/assets/141955301/0562e7af-d465-4805-9588-754c330654d2)
+
+
+
+
+
 
